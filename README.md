@@ -38,3 +38,48 @@ Looking ahead, I am determined to continuously grow my skills,
         not only meets today’s demands but is also prepared for tomorrow’s challenges. I am
         constantly improving, learning, and innovating, and I look forward to opportunities that
         push me to develop my expertise and leadership further.
+
+  ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/stats.gif"  width="32"/> Stats
+  ### GitHub
+  <div align="center">
+
+   ![](https://github-readme-stats.vercel.app/api?username=willymateo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=willymateo&theme=tokyonight&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=willymateo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=willymateo&theme=tokyo-night)
+
+  </div>
+
+## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
+
+<p> 
+ <i>You can reach out to me via</i> 
+<a href="mailto:matheoowilly@gmail.com">
+     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif"  width="100"/>
+ </a>
+
+  <a href="https://www.linkedin.com/in/willymateo">
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
+  </a>
+</p>
+
+
+
+## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
+
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+   
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+  
+  </div>
+</details>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
