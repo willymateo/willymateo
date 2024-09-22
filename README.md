@@ -43,10 +43,10 @@ Looking ahead, I am determined to continuously grow my skills,
   ### GitHub
   <div align="center">
 
-   ![](https://github-readme-stats.vercel.app/api?username=willymateo&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true)<br/>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=willymateo&theme=tokyonight&hide_border=false)<br/>
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=willymateo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-   ![](https://github-readme-activity-graph.vercel.app/graph?username=willymateo&theme=tokyo-night)
+
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=willymateo&theme=tokyonight&hide_border=false&count_private=true)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=willymateo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&count_private=true)<br/>
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=willymateo&theme=tokyo-night&count_private=true)
 
   </div>
 
