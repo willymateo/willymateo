@@ -175,16 +175,13 @@ Kanban
 </div>
 
 <!--Start Count Merged PRs-->
-
-<span><img src="https://img.shields.io/badge/Total_Merged_PRs-30-1877F2?style=for-the-badge"></span>
-
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-38-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-
-1. 🥳 Merged PR [379](https://github.com/pymc-labs/CausalPy/pull/379) - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
-2. 🎉 Merged PR [876](https://github.com/glasskube/glasskube/pull/876) - [glasskube/glasskube](https://github.com/glasskube/glasskube)
-3. 🎊 Merged PR [50](https://github.com/pinacai/PINAC_Workspace/pull/50) - [pinacai/PINAC_Workspace](https://github.com/pinacai/PINAC_Workspace)
-4. 🥂 Merged PR [2](https://github.com/ManasviGaur/Vegetable-freshness-detection/pull/2) - [ManasviGaur/Vegetable-freshness-detection](https://github.com/ManasviGaur/Vegetable-freshness-detection)
-5. 🙌🏼 Merged PR [1](https://github.com/parth782/Movie-Recommendation/pull/1) - [parth782/Movie-Recommendation](https://github.com/parth782/Movie-Recommendation)
+1. 🥳 Merged PR [17](https://github.com/willymateo/portfolio/pull/17) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
+2. 🎉 Merged PR [16](https://github.com/willymateo/portfolio/pull/16) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
+3. 🎊 Merged PR [15](https://github.com/willymateo/portfolio/pull/15) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
+4. 🥂 Merged PR [14](https://github.com/willymateo/portfolio/pull/14) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
+5. 🙌🏼 Merged PR [13](https://github.com/willymateo/portfolio/pull/13) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
 <!--Finish Merged PRs-->
