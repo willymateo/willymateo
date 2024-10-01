@@ -149,18 +149,15 @@ Kanban
 ### ✅ Merged PRs
 
 <!--Start Count Merged PRs-->
-
-<span><img src="https://img.shields.io/badge/Total_Merged_PRs-38-1877F2?style=for-the-badge"></span>
-
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-39-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-
-1. 🥳 Merged PR [17](https://github.com/willymateo/portfolio/pull/17) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
-2. 🎉 Merged PR [16](https://github.com/willymateo/portfolio/pull/16) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
-3. 🎊 Merged PR [15](https://github.com/willymateo/portfolio/pull/15) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
-4. 🥂 Merged PR [14](https://github.com/willymateo/portfolio/pull/14) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
-5. 🙌🏼 Merged PR [13](https://github.com/willymateo/portfolio/pull/13) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
+1. 🥳 Merged PR [1](https://github.com/willymateo/willymateo/pull/1) - [willymateo/willymateo](https://github.com/willymateo/willymateo)
+2. 🎉 Merged PR [17](https://github.com/willymateo/portfolio/pull/17) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
+3. 🎊 Merged PR [16](https://github.com/willymateo/portfolio/pull/16) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
+4. 🥂 Merged PR [15](https://github.com/willymateo/portfolio/pull/15) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
+5. 🙌🏼 Merged PR [14](https://github.com/willymateo/portfolio/pull/14) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
