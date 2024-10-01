@@ -1,9 +1,11 @@
-<h1 align="center">Hi <img src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Hi.gif" width="28px"/>, I'm Willy Mateo</h2>
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=willymateo&color=brightgreen&style=for-the-badge" alt="Profile Views" style="height:21px;">
-Fullstack Egineer
+![github-header-image](https://github.com/user-attachments/assets/bcb7f63a-470b-4055-b1ff-915eecc06322)
 
-</h2>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=willymateo&color=brightgreen&style=for-the-badge" alt="Profile Views" style="height:21px;">
+</div>
+
+<br />
+
 <div align="center">
  <img alt="main image" src="https://github.com/user-attachments/assets/4f27fa78-d9a2-4126-b732-1f0fc64c607b" />
 </div>
@@ -39,7 +41,7 @@ push me to develop my expertise and leadership further.
 
 <p>
   <i>The most up-to-date information on the impact of my professional career can be found at: </i>
-  
+
 <a href="https://willymateo.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
@@ -142,38 +144,6 @@ Kanban
 
   </div>
 
-## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
-
-<p> 
- <i>You can reach out to me via</i> 
-<a href="mailto:matheoowilly@gmail.com">
-     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif"  width="100"/>
- </a>
-
-  <a href="https://www.linkedin.com/in/willymateo">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
-  </a>
-</p>
-
-## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke
-
-<details>
-  <summary>Click to see a random joke</summary>
-  <div align="center">
-   
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-  
-  </div>
-</details>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 ### ✅ Merged PRs
 
 <!--Start Count Merged PRs-->
@@ -201,3 +171,35 @@ Kanban
 4. 🎉 Merged PR [#16](https://github.com/willymateo/portfolio/pull/16) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
 5. 💪 Opened PR [#16](https://github.com/willymateo/portfolio/pull/16) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
 <!--END_SECTION:activity-->
+
+## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
+
+<p>
+ <i>You can reach out to me via</i>
+<a href="mailto:matheoowilly@gmail.com">
+     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif"  width="100"/>
+ </a>
+
+  <a href="https://www.linkedin.com/in/willymateo">
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
+  </a>
+</p>
+
+## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke
+
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
