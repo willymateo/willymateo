@@ -138,6 +138,8 @@ Kanban
 
   <div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=willymateo&column=4&theme=dracula&no-bg=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=willymateo&theme=tokyonight&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=willymateo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&count_private=true)<br/>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=willymateo&theme=tokyo-night&count_private=true)
