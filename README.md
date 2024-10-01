@@ -185,3 +185,5 @@ Kanban
 4. 🥂 Merged PR [14](https://github.com/willymateo/portfolio/pull/14) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
 5. 🙌🏼 Merged PR [13](https://github.com/willymateo/portfolio/pull/13) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
 <!--Finish Merged PRs-->
+
+<!--START_SECTION:activity-->
