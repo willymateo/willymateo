@@ -164,11 +164,11 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/willymateo/devfest-livetalk/pull/2) in [willymateo/devfest-livetalk](https://github.com/willymateo/devfest-livetalk)
-2. 🎉 Merged PR [#1](https://github.com/willymateo/devfest-livetalk/pull/1) in [willymateo/devfest-livetalk](https://github.com/willymateo/devfest-livetalk)
-3. 💪 Opened PR [#1](https://github.com/willymateo/devfest-livetalk/pull/1) in [willymateo/devfest-livetalk](https://github.com/willymateo/devfest-livetalk)
-4. 🎉 Merged PR [#18](https://github.com/willymateo/portfolio/pull/18) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-5. 💪 Opened PR [#18](https://github.com/willymateo/portfolio/pull/18) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+1. 💪 Opened PR [#3](https://github.com/willymateo/devfest-livetalk/pull/3) in [willymateo/devfest-livetalk](https://github.com/willymateo/devfest-livetalk)
+2. 🎉 Merged PR [#2](https://github.com/willymateo/devfest-livetalk/pull/2) in [willymateo/devfest-livetalk](https://github.com/willymateo/devfest-livetalk)
+3. 💪 Opened PR [#2](https://github.com/willymateo/devfest-livetalk/pull/2) in [willymateo/devfest-livetalk](https://github.com/willymateo/devfest-livetalk)
+4. 🎉 Merged PR [#1](https://github.com/willymateo/devfest-livetalk/pull/1) in [willymateo/devfest-livetalk](https://github.com/willymateo/devfest-livetalk)
+5. 💪 Opened PR [#1](https://github.com/willymateo/devfest-livetalk/pull/1) in [willymateo/devfest-livetalk](https://github.com/willymateo/devfest-livetalk)
 <!--END_SECTION:activity-->
 
 ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
