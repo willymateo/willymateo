@@ -149,15 +149,15 @@ Kanban
 ### ✅ Merged PRs
 
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-43-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-45-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [3](https://github.com/willymateo/rushMessage/pull/3) - [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
-2. 🎉 Merged PR [2](https://github.com/willymateo/rushMessage/pull/2) - [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
-3. 🎊 Merged PR [1](https://github.com/willymateo/rushMessage/pull/1) - [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
-4. 🥂 Merged PR [18](https://github.com/willymateo/portfolio/pull/18) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
-5. 🙌🏼 Merged PR [1](https://github.com/willymateo/willymateo/pull/1) - [willymateo/willymateo](https://github.com/willymateo/willymateo)
+1. 🥳 Merged PR [2](https://github.com/willymateo/locksmith-api/pull/2) - [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
+2. 🎉 Merged PR [3](https://github.com/willymateo/rushMessage/pull/3) - [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+3. 🎊 Merged PR [2](https://github.com/willymateo/rushMessage/pull/2) - [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+4. 🥂 Merged PR [1](https://github.com/willymateo/rushMessage/pull/1) - [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+5. 🙌🏼 Merged PR [18](https://github.com/willymateo/portfolio/pull/18) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
