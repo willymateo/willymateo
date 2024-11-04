@@ -164,11 +164,11 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](https://github.com/willymateo/locksmith-api/pull/4) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
-2. 🎉 Merged PR [#3](https://github.com/willymateo/locksmith-api/pull/3) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
-3. 💪 Opened PR [#3](https://github.com/willymateo/locksmith-api/pull/3) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
-4. 🎉 Merged PR [#2](https://github.com/willymateo/locksmith-api/pull/2) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
-5. 💪 Opened PR [#2](https://github.com/willymateo/locksmith-api/pull/2) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
+1. 🎉 Merged PR [#4](https://github.com/willymateo/rushMessage/pull/4) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+2. 💪 Opened PR [#4](https://github.com/willymateo/rushMessage/pull/4) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+3. 💪 Opened PR [#4](https://github.com/willymateo/locksmith-api/pull/4) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
+4. 🎉 Merged PR [#3](https://github.com/willymateo/locksmith-api/pull/3) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
+5. 💪 Opened PR [#3](https://github.com/willymateo/locksmith-api/pull/3) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
 <!--END_SECTION:activity-->
 
 ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
