@@ -149,15 +149,15 @@ Kanban
 ### ✅ Merged PRs
 
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-105-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-110-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [1](https://github.com/willymateo/expression-resolver-api/pull/1) - [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
-2. 🎉 Merged PR [33](https://github.com/willymateo/bizprofy/pull/33) - [willymateo/bizprofy](https://github.com/willymateo/bizprofy)
-3. 🎊 Merged PR [4](https://github.com/willymateo/rushMessage/pull/4) - [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
-4. 🥂 Merged PR [3](https://github.com/willymateo/locksmith-api/pull/3) - [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
-5. 🙌🏼 Merged PR [2](https://github.com/willymateo/locksmith-api/pull/2) - [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
+1. 🥳 Merged PR [6](https://github.com/willymateo/expression-resolver-api/pull/6) - [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
+2. 🎉 Merged PR [5](https://github.com/willymateo/expression-resolver-api/pull/5) - [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
+3. 🎊 Merged PR [4](https://github.com/willymateo/expression-resolver-api/pull/4) - [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
+4. 🥂 Merged PR [3](https://github.com/willymateo/expression-resolver-api/pull/3) - [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
+5. 🙌🏼 Merged PR [2](https://github.com/willymateo/expression-resolver-api/pull/2) - [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
