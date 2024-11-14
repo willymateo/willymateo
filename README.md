@@ -164,11 +164,11 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/willymateo/expression-resolver-api/pull/1) in [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
-2. 🎉 Merged PR [#33](https://github.com/willymateo/bizprofy/pull/33) in [willymateo/bizprofy](https://github.com/willymateo/bizprofy)
-3. 💪 Opened PR [#33](https://github.com/willymateo/bizprofy/pull/33) in [willymateo/bizprofy](https://github.com/willymateo/bizprofy)
-4. 🎉 Merged PR [#4](https://github.com/willymateo/rushMessage/pull/4) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
-5. 💪 Opened PR [#4](https://github.com/willymateo/rushMessage/pull/4) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+1. 🎉 Merged PR [#1](https://github.com/willymateo/expression-resolver-api/pull/1) in [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
+2. 💪 Opened PR [#1](https://github.com/willymateo/expression-resolver-api/pull/1) in [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
+3. 🎉 Merged PR [#33](https://github.com/willymateo/bizprofy/pull/33) in [willymateo/bizprofy](https://github.com/willymateo/bizprofy)
+4. 💪 Opened PR [#33](https://github.com/willymateo/bizprofy/pull/33) in [willymateo/bizprofy](https://github.com/willymateo/bizprofy)
+5. 🎉 Merged PR [#4](https://github.com/willymateo/rushMessage/pull/4) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
 <!--END_SECTION:activity-->
 
 ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
