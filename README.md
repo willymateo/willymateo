@@ -164,11 +164,11 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/willymateo/expression-resolver-api/pull/7) in [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
-2. 💪 Opened PR [#7](https://github.com/willymateo/expression-resolver-api/pull/7) in [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
-3. 🎉 Merged PR [#6](https://github.com/willymateo/expression-resolver-api/pull/6) in [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
-4. 💪 Opened PR [#6](https://github.com/willymateo/expression-resolver-api/pull/6) in [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
-5. 🎉 Merged PR [#5](https://github.com/willymateo/expression-resolver-api/pull/5) in [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
+1. 🎉 Merged PR [#4](https://github.com/willymateo/locksmith-api/pull/4) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
+2. ❗ Opened issue [#6](https://github.com/willymateo/locksmith-api/issues/6) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
+3. ❗ Opened issue [#5](https://github.com/willymateo/locksmith-api/issues/5) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
+4. 🎉 Merged PR [#7](https://github.com/willymateo/expression-resolver-api/pull/7) in [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
+5. 💪 Opened PR [#7](https://github.com/willymateo/expression-resolver-api/pull/7) in [willymateo/expression-resolver-api](https://github.com/willymateo/expression-resolver-api)
 <!--END_SECTION:activity-->
 
 ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
