@@ -164,11 +164,11 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#19](https://github.com/willymateo/portfolio/pull/19) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-2. 💪 Opened PR [#19](https://github.com/willymateo/portfolio/pull/19) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-3. 🎉 Merged PR [#4](https://github.com/willymateo/locksmith-api/pull/4) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
-4. ❗ Opened issue [#6](https://github.com/willymateo/locksmith-api/issues/6) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
-5. ❗ Opened issue [#5](https://github.com/willymateo/locksmith-api/issues/5) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
+1. 🎉 Merged PR [#1](https://github.com/willymateo/advent-of-code-2024/pull/1) in [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
+2. 💪 Opened PR [#1](https://github.com/willymateo/advent-of-code-2024/pull/1) in [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
+3. 🎉 Merged PR [#19](https://github.com/willymateo/portfolio/pull/19) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+4. 💪 Opened PR [#19](https://github.com/willymateo/portfolio/pull/19) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+5. 🎉 Merged PR [#4](https://github.com/willymateo/locksmith-api/pull/4) in [willymateo/locksmith-api](https://github.com/willymateo/locksmith-api)
 <!--END_SECTION:activity-->
 
 ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
