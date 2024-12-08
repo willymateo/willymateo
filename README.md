@@ -149,15 +149,15 @@ Kanban
 ### ✅ Merged PRs
 
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-119-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-120-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [5](https://github.com/willymateo/advent-of-code-2024/pull/5) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
-2. 🎉 Merged PR [4](https://github.com/willymateo/advent-of-code-2024/pull/4) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
-3. 🎊 Merged PR [20](https://github.com/willymateo/portfolio/pull/20) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
-4. 🥂 Merged PR [3](https://github.com/willymateo/advent-of-code-2024/pull/3) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
-5. 🙌🏼 Merged PR [2](https://github.com/willymateo/advent-of-code-2024/pull/2) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
+1. 🥳 Merged PR [21](https://github.com/willymateo/portfolio/pull/21) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
+2. 🎉 Merged PR [5](https://github.com/willymateo/advent-of-code-2024/pull/5) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
+3. 🎊 Merged PR [4](https://github.com/willymateo/advent-of-code-2024/pull/4) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
+4. 🥂 Merged PR [20](https://github.com/willymateo/portfolio/pull/20) - [willymateo/portfolio](https://github.com/willymateo/portfolio)
+5. 🙌🏼 Merged PR [3](https://github.com/willymateo/advent-of-code-2024/pull/3) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
