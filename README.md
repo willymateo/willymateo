@@ -164,10 +164,10 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#22](https://github.com/willymateo/portfolio/pull/22) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-2. 🎉 Merged PR [#6](https://github.com/willymateo/advent-of-code-2024/pull/6) in [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
-3. 💪 Opened PR [#6](https://github.com/willymateo/advent-of-code-2024/pull/6) in [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
-4. 🎉 Merged PR [#21](https://github.com/willymateo/portfolio/pull/21) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+1. 🎉 Merged PR [#22](https://github.com/willymateo/portfolio/pull/22) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+2. 💪 Opened PR [#22](https://github.com/willymateo/portfolio/pull/22) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+3. 🎉 Merged PR [#6](https://github.com/willymateo/advent-of-code-2024/pull/6) in [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
+4. 💪 Opened PR [#6](https://github.com/willymateo/advent-of-code-2024/pull/6) in [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
 5. 💪 Opened PR [#21](https://github.com/willymateo/portfolio/pull/21) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
 <!--END_SECTION:activity-->
 
