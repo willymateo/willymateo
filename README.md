@@ -164,11 +164,11 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#22](https://github.com/willymateo/portfolio/pull/22) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-2. 💪 Opened PR [#22](https://github.com/willymateo/portfolio/pull/22) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-3. 🎉 Merged PR [#6](https://github.com/willymateo/advent-of-code-2024/pull/6) in [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
-4. 💪 Opened PR [#6](https://github.com/willymateo/advent-of-code-2024/pull/6) in [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
-5. 💪 Opened PR [#21](https://github.com/willymateo/portfolio/pull/21) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+1. 🎉 Merged PR [#24](https://github.com/willymateo/portfolio/pull/24) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+2. 💪 Opened PR [#24](https://github.com/willymateo/portfolio/pull/24) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+3. 🎉 Merged PR [#23](https://github.com/willymateo/portfolio/pull/23) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+4. 💪 Opened PR [#23](https://github.com/willymateo/portfolio/pull/23) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+5. 🎉 Merged PR [#22](https://github.com/willymateo/portfolio/pull/22) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
 <!--END_SECTION:activity-->
 
 ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
