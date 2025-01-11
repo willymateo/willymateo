@@ -164,11 +164,11 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#27](https://github.com/willymateo/portfolio/pull/27) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-2. 🎉 Merged PR [#26](https://github.com/willymateo/portfolio/pull/26) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-3. 💪 Opened PR [#26](https://github.com/willymateo/portfolio/pull/26) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-4. 🎉 Merged PR [#25](https://github.com/willymateo/portfolio/pull/25) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-5. 💪 Opened PR [#25](https://github.com/willymateo/portfolio/pull/25) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+1. 🎉 Merged PR [#27](https://github.com/willymateo/portfolio/pull/27) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+2. 💪 Opened PR [#27](https://github.com/willymateo/portfolio/pull/27) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+3. 🎉 Merged PR [#26](https://github.com/willymateo/portfolio/pull/26) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+4. 💪 Opened PR [#26](https://github.com/willymateo/portfolio/pull/26) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+5. 🎉 Merged PR [#25](https://github.com/willymateo/portfolio/pull/25) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
 <!--END_SECTION:activity-->
 
 ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
