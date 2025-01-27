@@ -164,11 +164,11 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#33](https://github.com/willymateo/portfolio/issues/33) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-2. ❗ Opened issue [#32](https://github.com/willymateo/portfolio/issues/32) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-3. ❗ Opened issue [#31](https://github.com/willymateo/portfolio/issues/31) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-4. ❗ Opened issue [#30](https://github.com/willymateo/portfolio/issues/30) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
-5. ❗ Opened issue [#29](https://github.com/willymateo/portfolio/issues/29) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+1. 💪 Opened PR [#34](https://github.com/willymateo/portfolio/pull/34) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+2. ❗ Opened issue [#33](https://github.com/willymateo/portfolio/issues/33) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+3. ❗ Opened issue [#32](https://github.com/willymateo/portfolio/issues/32) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+4. ❗ Opened issue [#31](https://github.com/willymateo/portfolio/issues/31) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+5. ❗ Opened issue [#30](https://github.com/willymateo/portfolio/issues/30) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
 <!--END_SECTION:activity-->
 
 ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
