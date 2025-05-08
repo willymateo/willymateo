@@ -164,7 +164,7 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#58](https://github.com/willymateo/portfolio/pull/58) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
+1. ❗ Opened issue [#4](https://github.com/aaronsu11/langgraph-checkpoint-dynamodb/issues/4) in [aaronsu11/langgraph-checkpoint-dynamodb](https://github.com/aaronsu11/langgraph-checkpoint-dynamodb)
 2. 🎉 Merged PR [#56](https://github.com/willymateo/portfolio/pull/56) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
 3. 💪 Opened PR [#56](https://github.com/willymateo/portfolio/pull/56) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
 4. 🎉 Merged PR [#55](https://github.com/willymateo/portfolio/pull/55) in [willymateo/portfolio](https://github.com/willymateo/portfolio)
