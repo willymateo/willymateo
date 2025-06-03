@@ -164,11 +164,11 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#6](https://github.com/willymateo/ai-agents-langgraph/issues/6) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
-2. 💪 Opened PR [#10](https://github.com/willymateo/ai-agents-langgraph/pull/10) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
-3. 🔒 Closed issue [#8](https://github.com/willymateo/ai-agents-langgraph/issues/8) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
-4. 🔒 Closed issue [#7](https://github.com/willymateo/ai-agents-langgraph/issues/7) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
-5. 🎉 Merged PR [#9](https://github.com/willymateo/ai-agents-langgraph/pull/9) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
+1. 🎉 Merged PR [#10](https://github.com/willymateo/ai-agents-langgraph/pull/10) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
+2. 🔒 Closed issue [#6](https://github.com/willymateo/ai-agents-langgraph/issues/6) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
+3. 💪 Opened PR [#10](https://github.com/willymateo/ai-agents-langgraph/pull/10) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
+4. 🔒 Closed issue [#8](https://github.com/willymateo/ai-agents-langgraph/issues/8) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
+5. 🔒 Closed issue [#7](https://github.com/willymateo/ai-agents-langgraph/issues/7) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
 <!--END_SECTION:activity-->
 
 ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
