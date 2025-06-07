@@ -149,15 +149,15 @@ Kanban
 ### ✅ Merged PRs
 
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-52-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-44-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [11](https://github.com/willymateo/ai-agents-langgraph/pull/11) - [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
-2. 🎉 Merged PR [10](https://github.com/willymateo/ai-agents-langgraph/pull/10) - [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
-3. 🎊 Merged PR [9](https://github.com/willymateo/ai-agents-langgraph/pull/9) - [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
-4. 🥂 Merged PR [5](https://github.com/willymateo/ai-agents-langgraph/pull/5) - [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
-5. 🙌🏼 Merged PR [4](https://github.com/willymateo/ai-agents-langgraph/pull/4) - [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
+1. 🥳 Merged PR [18313](https://github.com/is-a-dev/register/pull/18313) - [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🎉 Merged PR [6](https://github.com/willymateo/advent-of-code-2024/pull/6) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
+3. 🎊 Merged PR [5](https://github.com/willymateo/advent-of-code-2024/pull/5) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
+4. 🥂 Merged PR [4](https://github.com/willymateo/advent-of-code-2024/pull/4) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
+5. 🙌🏼 Merged PR [3](https://github.com/willymateo/advent-of-code-2024/pull/3) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
