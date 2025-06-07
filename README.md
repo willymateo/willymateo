@@ -164,7 +164,7 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#11](https://github.com/willymateo/ai-agents-langgraph/pull/11) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
+1. 💪 Opened PR [#12](https://github.com/willymateo/ai-agents-langgraph/pull/12) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
 2. 💪 Opened PR [#11](https://github.com/willymateo/ai-agents-langgraph/pull/11) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
 3. 🎉 Merged PR [#10](https://github.com/willymateo/ai-agents-langgraph/pull/10) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
 4. 🔒 Closed issue [#6](https://github.com/willymateo/ai-agents-langgraph/issues/6) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
