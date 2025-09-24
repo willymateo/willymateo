@@ -164,8 +164,8 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#12](https://github.com/willymateo/ai-agents-langgraph/pull/12) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
-2. 💪 Opened PR [#11](https://github.com/willymateo/ai-agents-langgraph/pull/11) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
+1. 🗣 Commented on [#44366](https://github.com/hashicorp/terraform-provider-aws/issues/44366#issuecomment-3312826748) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+2. 🗣 Commented on [#44366](https://github.com/hashicorp/terraform-provider-aws/issues/44366#issuecomment-3312819166) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 3. 🎉 Merged PR [#10](https://github.com/willymateo/ai-agents-langgraph/pull/10) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
 4. 🔒 Closed issue [#6](https://github.com/willymateo/ai-agents-langgraph/issues/6) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
 5. 💪 Opened PR [#10](https://github.com/willymateo/ai-agents-langgraph/pull/10) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
