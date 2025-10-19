@@ -164,11 +164,11 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](undefined) in [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
-2. 💪 Opened PR [#1](undefined) in [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
-3. 🗣 Commented on [#44366](https://github.com/hashicorp/terraform-provider-aws/issues/44366#issuecomment-3312826748) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-4. 🗣 Commented on [#44366](https://github.com/hashicorp/terraform-provider-aws/issues/44366#issuecomment-3312819166) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
-5. 💪 Opened PR [#10](https://github.com/willymateo/ai-agents-langgraph/pull/10) in [willymateo/ai-agents-langgraph](https://github.com/willymateo/ai-agents-langgraph)
+1. 💪 Opened PR [#3](undefined) in [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
+2. 💪 Opened PR [#2](undefined) in [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
+3. 💪 Opened PR [#1](undefined) in [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
+4. 🗣 Commented on [#44366](https://github.com/hashicorp/terraform-provider-aws/issues/44366#issuecomment-3312826748) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+5. 🗣 Commented on [#44366](https://github.com/hashicorp/terraform-provider-aws/issues/44366#issuecomment-3312819166) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 <!--END_SECTION:activity-->
 
 ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
