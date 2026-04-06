@@ -164,7 +164,7 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](undefined) in [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
+1. 🗣 Commented on [#3047](https://github.com/CopilotKit/CopilotKit/issues/3047#issuecomment-4190353469) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 2. 💪 Opened PR [#2](undefined) in [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
 3. 💪 Opened PR [#1](undefined) in [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
 4. 🗣 Commented on [#44366](https://github.com/hashicorp/terraform-provider-aws/issues/44366#issuecomment-3312826748) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
