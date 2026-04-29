@@ -149,15 +149,15 @@ Kanban
 ### ✅ Merged PRs
 
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-23-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-42-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
 1. 🥳 Merged PR [3](https://github.com/willymateo/nextjs-aws-cognito-auth-template/pull/3) - [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
 2. 🎉 Merged PR [2](https://github.com/willymateo/nextjs-aws-cognito-auth-template/pull/2) - [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
 3. 🎊 Merged PR [1](https://github.com/willymateo/nextjs-aws-cognito-auth-template/pull/1) - [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
-4. 🥂 Merged PR [1](https://github.com/willymateo/advent-of-code-2024/pull/1) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
-5. 🙌🏼 Merged PR [2](https://github.com/willymateo/rushMessage/pull/2) - [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+4. 🥂 Merged PR [18313](https://github.com/is-a-dev/register/pull/18313) - [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🙌🏼 Merged PR [2](https://github.com/willymateo/advent-of-code-2024/pull/2) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
