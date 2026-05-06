@@ -164,10 +164,10 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3256](https://github.com/CopilotKit/CopilotKit/issues/3256#issuecomment-4193425068) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
-2. 🗣 Commented on [#2200](https://github.com/CopilotKit/CopilotKit/issues/2200#issuecomment-4193261721) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
-3. 🗣 Commented on [#3047](https://github.com/CopilotKit/CopilotKit/issues/3047#issuecomment-4190353469) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
-4. 🗣 Commented on [#44366](https://github.com/hashicorp/terraform-provider-aws/issues/44366#issuecomment-3312826748) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+1. 🗣 Commented on [#280](https://github.com/ag-ui-protocol/ag-ui/issues/280#issuecomment-4384988672) in [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
+2. 🗣 Commented on [#3256](https://github.com/CopilotKit/CopilotKit/issues/3256#issuecomment-4193425068) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+3. 🗣 Commented on [#2200](https://github.com/CopilotKit/CopilotKit/issues/2200#issuecomment-4193261721) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+4. 🗣 Commented on [#3047](https://github.com/CopilotKit/CopilotKit/issues/3047#issuecomment-4190353469) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 5. 🗣 Commented on [#44366](https://github.com/hashicorp/terraform-provider-aws/issues/44366#issuecomment-3312819166) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 <!--END_SECTION:activity-->
 
