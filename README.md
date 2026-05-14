@@ -164,9 +164,9 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1482](https://github.com/CopilotKit/CopilotKit/issues/1482#issuecomment-4402820821) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
-2. 🗣 Commented on [#280](https://github.com/ag-ui-protocol/ag-ui/issues/280#issuecomment-4384988672) in [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
-3. 🗣 Commented on [#2200](https://github.com/CopilotKit/CopilotKit/issues/2200#issuecomment-4193261721) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+1. ❗ Opened issue [#10](https://github.com/aaronsu11/langgraph-checkpoint-dynamodb/issues/10) in [aaronsu11/langgraph-checkpoint-dynamodb](https://github.com/aaronsu11/langgraph-checkpoint-dynamodb)
+2. 🗣 Commented on [#1482](https://github.com/CopilotKit/CopilotKit/issues/1482#issuecomment-4402820821) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
+3. 🗣 Commented on [#280](https://github.com/ag-ui-protocol/ag-ui/issues/280#issuecomment-4384988672) in [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui)
 4. 🗣 Commented on [#3047](https://github.com/CopilotKit/CopilotKit/issues/3047#issuecomment-4190353469) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 5. 🗣 Commented on [#44366](https://github.com/hashicorp/terraform-provider-aws/issues/44366#issuecomment-3312819166) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 <!--END_SECTION:activity-->
