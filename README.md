@@ -164,8 +164,8 @@ Kanban
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1083](https://github.com/langchain-ai/langchain-aws/issues/1083) in [langchain-ai/langchain-aws](https://github.com/langchain-ai/langchain-aws)
-2. ❗ Opened issue [#1055](https://github.com/langchain-ai/langchain-aws/issues/1055) in [langchain-ai/langchain-aws](https://github.com/langchain-ai/langchain-aws)
+1. 🗣 Commented on [#915](https://github.com/langchain-ai/langchain-aws/issues/915#issuecomment-4877459847) in [langchain-ai/langchain-aws](https://github.com/langchain-ai/langchain-aws)
+2. ❗ Opened issue [#1083](https://github.com/langchain-ai/langchain-aws/issues/1083) in [langchain-ai/langchain-aws](https://github.com/langchain-ai/langchain-aws)
 3. ❗ Opened issue [#10](https://github.com/aaronsu11/langgraph-checkpoint-dynamodb/issues/10) in [aaronsu11/langgraph-checkpoint-dynamodb](https://github.com/aaronsu11/langgraph-checkpoint-dynamodb)
 4. 🗣 Commented on [#1482](https://github.com/CopilotKit/CopilotKit/issues/1482#issuecomment-4402820821) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 5. 🗣 Commented on [#44366](https://github.com/hashicorp/terraform-provider-aws/issues/44366#issuecomment-3312819166) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
