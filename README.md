@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/bcb7f63a-470b-4055-b1ff-915eecc06322)
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/21113f20-2ce2-456c-b404-9cad3fb26951" />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=willymateo&color=brightgreen&style=for-the-badge" alt="Profile Views" style="height:21px;">
@@ -12,30 +12,17 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I’m Willy Mateo, a passionate Computer Science Engineer from
-<strong> ESPOL, Ecuador’s top university</strong>, with a strong focus on full-stack
-development. My career so far has centered on creating efficient, high-performing
-applications. I thrive on solving complex challenges and am committed to building scalable
-solutions. I identify myself with excellence, and this drives me to deliver top-quality code
-and always look for ways to optimize processes, ensuring both user satisfaction and
-performance.
+I'm a Tech Lead specializing in AI Agents and agentic systems, with a background that spans the full stack — from frontend and backend development to cloud infrastructure and cross-functional team leadership.
 
-Technically, I bring extensive experience in
-<strong> TypeScript, JavaScript, React, Next.js, Redux and testing libraries</strong>;
-combined with a deep understanding of backend technologies like
-<strong>Node.js, Express.js, Nest.js, Python, Django, MySQL, PostgreSQL and MongoDB</strong>
-; My experience with cloud services is based on
-<strong> AWS, Firebase, Vercel, ElasticSearch, Terraform and Docker</strong>. Beyond
-technical expertise, I possess strong communication skills and a collaborative mindset. My
-leadership qualities enable me to work effectively across teams, mentor peers, and ensure
-that every project I touch meets high standards.
+My journey started as a Fullstack Software Engineer, where I got hands-on experience designing and building scalable AI-powered systems using python, LangChain, LangGraph, DeepAgents, Terraform and AWS — as well as building rich frontend experiences with React, including integrating agentic capabilities directly into the UI layer.
 
-Looking ahead, I am determined to continuously grow my skills,
-<strong> with the ultimate goal of becoming a software architect</strong>. I am driven by
-the idea of designing systems that are both efficient and scalable, ensuring that technology
-not only meets today’s demands but is also prepared for tomorrow’s challenges. I am
-constantly improving, learning, and innovating, and I look forward to opportunities that
-push me to develop my expertise and leadership further.
+Over time I grew into a leadership role where I now drive technical strategy, coordinate frontend, backend, and infrastructure teams, and lead solution design discussions to turn complex user problems into production-ready agentic applications. I guide developers throughout the entire development process — helping them deeply understand the project, unblock issues quickly, and move faster as a team.
+
+The AI and tech world genuinely passionates me — I'm constantly exploring new technologies, emerging models, and innovative ways to solve problems, bringing that knowledge into both my professional work and personal projects. I'm also deeply passionate about entrepreneurship, designing and building AI-powered solutions that address real personal and business challenges.
+
+I firmly believe the best technical decisions emerge from collaborative thinking — bringing every voice to the table, analyzing tradeoffs together, and committing as a team to solutions that are scalable, flexible, and built to last.
+
+If you're working on something ambitious in the AI space, I'd love to connect.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" alt="Hear-No-Evil Monkey" width="29" /> Website
 
@@ -59,57 +46,76 @@ push me to develop my expertise and leadership further.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=zustand&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-Vitest
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-SSR
+![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=swr&logoColor=white)
+![SSR](https://img.shields.io/badge/SSR-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-Material UI
+![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF.svg?style=for-the-badge&logo=MUI&logoColor=#007FFF)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)
-i18next
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white)
+![Lottie](https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logo=lottiefiles&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![CopilotKit](https://img.shields.io/badge/CopilotKit-6963FF?style=for-the-badge&logoColor=white)
 
 #### Back-end
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-REST APIs
-Supertest
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-323330?style=for-the-badge&logoColor=white)
 
 #### Mobile
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 #### Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-Firestore
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+#### AI Agents
+
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+![DeepAgents](https://img.shields.io/badge/DeepAgents-1C3C3C?style=for-the-badge&logoColor=white)
+![AGUI](https://img.shields.io/badge/AGUI-6963FF?style=for-the-badge&logoColor=white)
 
 #### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-Railway
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 #### DevOps
 
@@ -117,7 +123,7 @@ Railway
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-#### Web development environment
+#### Development environment
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -126,19 +132,22 @@ Railway
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/Agent%20Skills-D97757?style=for-the-badge&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### Agile
 
-Scrum
-Kanban
+![Scrum](https://img.shields.io/badge/Scrum-6BAA75?style=for-the-badge&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-17A2B8?style=for-the-badge&logoColor=white)
+![GitFlow](https://img.shields.io/badge/GitFlow-F1502F?style=for-the-badge&logo=git&logoColor=white)
 
 ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/stats.gif"  width="32"/> Stats
 
 ### GitHub
 
   <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=willymateo&column=4&theme=dracula&no-bg=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=willymateo&theme=tokyonight&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=willymateo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&count_private=true)<br/>
