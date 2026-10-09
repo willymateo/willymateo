@@ -158,15 +158,15 @@ If you're working on something ambitious in the AI space, I'd love to connect.
 ### ✅ Merged PRs
 
 <!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-47-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-50-1877F2?style=for-the-badge"></span>
 <!--Finish Count Merged PRs-->
 
 <!--Start Merged PRs-->
-1. 🥳 Merged PR [3](https://github.com/willymateo/nextjs-aws-cognito-auth-template/pull/3) - [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
-2. 🎉 Merged PR [2](https://github.com/willymateo/nextjs-aws-cognito-auth-template/pull/2) - [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
-3. 🎊 Merged PR [1](https://github.com/willymateo/nextjs-aws-cognito-auth-template/pull/1) - [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
-4. 🥂 Merged PR [18313](https://github.com/is-a-dev/register/pull/18313) - [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🙌🏼 Merged PR [6](https://github.com/willymateo/advent-of-code-2024/pull/6) - [willymateo/advent-of-code-2024](https://github.com/willymateo/advent-of-code-2024)
+1. 🥳 Merged PR [3](https://github.com/willymateo/darkos-landing-page/pull/3) - [willymateo/darkos-landing-page](https://github.com/willymateo/darkos-landing-page)
+2. 🎉 Merged PR [2](https://github.com/willymateo/darkos-landing-page/pull/2) - [willymateo/darkos-landing-page](https://github.com/willymateo/darkos-landing-page)
+3. 🎊 Merged PR [1](https://github.com/willymateo/darkos-landing-page/pull/1) - [willymateo/darkos-landing-page](https://github.com/willymateo/darkos-landing-page)
+4. 🥂 Merged PR [3](https://github.com/willymateo/nextjs-aws-cognito-auth-template/pull/3) - [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
+5. 🙌🏼 Merged PR [2](https://github.com/willymateo/nextjs-aws-cognito-auth-template/pull/2) - [willymateo/nextjs-aws-cognito-auth-template](https://github.com/willymateo/nextjs-aws-cognito-auth-template)
 <!--Finish Merged PRs-->
 
 ### <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
