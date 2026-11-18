@@ -173,11 +173,11 @@ If you're working on something ambitious in the AI space, I'd love to connect.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1482](https://github.com/CopilotKit/CopilotKit/issues/1482#issuecomment-5182168789) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
-2. ❗ Opened issue [#1083](https://github.com/langchain-ai/langchain-aws/issues/1083) in [langchain-ai/langchain-aws](https://github.com/langchain-ai/langchain-aws)
-3. ❗ Opened issue [#10](https://github.com/aaronsu11/langgraph-checkpoint-dynamodb/issues/10) in [aaronsu11/langgraph-checkpoint-dynamodb](https://github.com/aaronsu11/langgraph-checkpoint-dynamodb)
-4. 🗣 Commented on [#1482](https://github.com/CopilotKit/CopilotKit/issues/1482#issuecomment-4402820821) in [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
-5. 🗣 Commented on [#44366](https://github.com/hashicorp/terraform-provider-aws/issues/44366#issuecomment-3312819166) in [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+1. 💪 Opened PR [#8](https://github.com/willymateo/rushMessage/pull/8) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+2. 🗣 Commented on [#7](https://github.com/willymateo/rushMessage/pull/7#issuecomment-6993389413) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+3. 🗣 Commented on [#7](https://github.com/willymateo/rushMessage/pull/7#issuecomment-6993310910) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+4. 💪 Opened PR [#7](https://github.com/willymateo/rushMessage/pull/7) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+5. 🎉 Merged PR [#6](https://github.com/willymateo/rushMessage/pull/6) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
 <!--END_SECTION:activity-->
 
 ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
