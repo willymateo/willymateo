@@ -173,11 +173,11 @@ If you're working on something ambitious in the AI space, I'd love to connect.
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#8](https://github.com/willymateo/rushMessage/pull/8) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
-2. 🗣 Commented on [#7](https://github.com/willymateo/rushMessage/pull/7#issuecomment-6993389413) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
-3. 🗣 Commented on [#7](https://github.com/willymateo/rushMessage/pull/7#issuecomment-6993310910) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
-4. 💪 Opened PR [#7](https://github.com/willymateo/rushMessage/pull/7) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
-5. 🎉 Merged PR [#6](https://github.com/willymateo/rushMessage/pull/6) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+1. 🗣 Commented on [#7](https://github.com/willymateo/rushMessage/pull/7#issuecomment-7139703959) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+2. 💪 Opened PR [#8](https://github.com/willymateo/rushMessage/pull/8) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+3. 🗣 Commented on [#7](https://github.com/willymateo/rushMessage/pull/7#issuecomment-6993389413) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+4. 🗣 Commented on [#7](https://github.com/willymateo/rushMessage/pull/7#issuecomment-6993310910) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
+5. 💪 Opened PR [#7](https://github.com/willymateo/rushMessage/pull/7) in [willymateo/rushMessage](https://github.com/willymateo/rushMessage)
 <!--END_SECTION:activity-->
 
 ## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
